@@ -18,8 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the University of Oxford, supervised by Alessandro Abate and Dave Parker. My research interests lie in formal verification and machine learning, particularly focusing on probabilistic systems with epistemic uncertainty and data-driven methods for optimal policy synthesis and uncertainty quantification. Recently, my work has also explored data-driven learning of abstractions for software verification.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my PhD, I completed my Master's degree at Oxford and my undergraduate studies at Saarland University. During my time in Saarbrücken, I worked as a research assistant with Holger Hermanns.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Over the summer, I am also interning with the Formal Verification team at Apple.
+
