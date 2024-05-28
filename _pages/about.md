@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at the University of Oxford, supervised by Alessandro Abate and Dave Parker. My research interests lie in formal verification and machine learning, particularly focusing on probabilistic systems with epistemic uncertainty and data-driven methods for optimal policy synthesis and uncertainty quantification. Recently, my work has also explored data-driven learning of abstractions for software verification.
 
-Prior to my PhD, I completed my Master's degree at Oxford and my undergraduate studies at Saarland University. During my time in Saarbrücken, I worked as a research assistant with Holger Hermanns.
+Prior to my PhD, I completed my Master's degree at Oxford and my undergraduate studies at Saarland University, where I was a research assistant with Holger Hermanns.
 
-Over the summer, I am also interning with the Formal Verification team at Apple.
+Over the summer, I am interning with the Formal Verification team at Apple.
 
