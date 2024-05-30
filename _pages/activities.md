@@ -9,14 +9,16 @@ nav_order: 6
 
 ## teaching
 
+<br>
+
 #### Oxford 
 
 I am a graduate teaching assistant in the department of computer science. I am involved with the following lectures and classes.
 
 ##### post-graduate 
-- System Vericication for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024
+- System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024
 - Probabilistic Model Checking, 2023
-- Computer Aided Formal Verification, 2023 
+- Computer-Aided Formal Verification, 2023 
 
 ##### undergraduate
 
@@ -24,6 +26,7 @@ I am a graduate teaching assistant in the department of computer science. I am i
 - Databases, 2024
 - Functional Programming, 2023
 
+<br>
 
 #### Saarland University
 
