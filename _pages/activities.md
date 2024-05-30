@@ -9,15 +9,15 @@ nav_order: 6
 
 ## teaching
 
-### at Oxford 
+#### at Oxford 
 
 I am a graduate teaching assistant in the department of computer science. I am involved with the following lectures and classes.
 
-#### post-graduate 
+##### post-graduate 
 - Probabilistic Model Checking, 2023
 - Computer Aided Formal Verification, 2023 
 
-#### undergraduate
+##### undergraduate
 
 I was the lead demonstrator for the practical lab sessions for
 - Imperative Programming, 2024
@@ -25,6 +25,7 @@ I was the lead demonstrator for the practical lab sessions for
 - Functional Programming, 2023
 
 
-### at Saarland University
+#### at Saarland University
+
 
 ## reviewing
