@@ -32,4 +32,6 @@ I am a graduate teaching assistant in the department of computer science. I am i
 - Big Data Engineering, 2021
 - Functional Programming, 2020
 
+I also served as the lecturer for the <a href="https://vorkurs.cs.uni-saarland.de/cms/ss21/contents/view/10">mathematics preparatory course</a> in 2021.
+
 ## reviewing
