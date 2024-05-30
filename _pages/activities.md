@@ -9,7 +9,7 @@ nav_order: 6
 
 ## teaching
 
-<span style="display:block; height:4px;"></span>
+<span style="display:block; height:3px;"></span>
 
 #### Oxford 
 
@@ -26,7 +26,7 @@ I am a graduate teaching assistant in the department of computer science. I am i
 - Databases, 2024
 - Functional Programming, 2023
 
-<span style="display:block; height:4px;"></span>
+<span style="display:block; height:3px;"></span>
 
 #### Saarland University
 
@@ -38,7 +38,7 @@ I am a graduate teaching assistant in the department of computer science. I am i
 I also served as the lecturer for the <a href="https://vorkurs.cs.uni-saarland.de/cms/ss21/contents/view/10">mathematics preparatory course</a> in 2021.
 
 ## reviewing
-<span style="display:block; height:4px;"></span>
+<span style="display:block; height:3px;"></span>
 #### conference reviewing 
 TACAS (2024), QEST-FORMATS (2024)
 
