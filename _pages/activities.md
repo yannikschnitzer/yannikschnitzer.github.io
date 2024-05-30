@@ -9,7 +9,7 @@ nav_order: 6
 
 ## teaching
 
-<br>
+<span style="display:block; height:5px;"></span>
 
 #### Oxford 
 
@@ -26,7 +26,7 @@ I am a graduate teaching assistant in the department of computer science. I am i
 - Databases, 2024
 - Functional Programming, 2023
 
-<br>
+<span style="display:block; height:5px;"></span>
 
 #### Saarland University
 
