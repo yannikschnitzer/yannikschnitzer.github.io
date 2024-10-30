@@ -20,10 +20,11 @@ I am a graduate teaching assistant in the department of computer science. I am i
 ##### post-graduate 
 - System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024
 - Probabilistic Model Checking, 2023
-- Computer-Aided Formal Verification, 2023 
+- Computer-Aided Formal Verification, 2023-24
 
 ##### undergraduate
 
+- Concurrency, 2024
 - Imperative Programming, 2024
 - Databases, 2024
 - Functional Programming, 2023
