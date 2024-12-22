@@ -18,6 +18,7 @@ nav_order: 6
 I am a graduate teaching assistant in the department of computer science. I am involved with the following lectures and classes.
 
 ##### post-graduate 
+- Foundations of Self-Programming Agents, 2025
 - System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024
 - Probabilistic Model Checking, 2023
 - Computer-Aided Formal Verification, 2023-24
@@ -25,8 +26,8 @@ I am a graduate teaching assistant in the department of computer science. I am i
 ##### undergraduate
 
 - Concurrency, 2024
-- Imperative Programming, 2024
-- Databases, 2024
+- Imperative Programming, 2024-25
+- Databases, 2024-25
 - Functional Programming, 2023
 
 <span style="display:block; height:3px;"></span>
