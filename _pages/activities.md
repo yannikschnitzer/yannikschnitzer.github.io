@@ -26,7 +26,7 @@ I am a graduate teaching assistant in the department of computer science. I am i
 ##### undergraduate
 
 - Concurrency, 2024
-- Imperative Programming, 2024
+- Imperative Programming, 2024-25
 - Databases, 2024-25
 - Functional Programming, 2023
 
