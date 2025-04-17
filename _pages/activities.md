@@ -13,13 +13,13 @@ nav_order: 6
 
 <span style="display:block; height:3px;"></span>
 
-#### Oxford 
+I am passionate about teaching. I am involved with the following lectures and classes.
 
-I am a graduate teaching assistant in the department of computer science. I am involved with the following lectures and classes.
+#### Oxford 
 
 ##### post-graduate 
 - Foundations of Self-Programming Agents, 2025
-- System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024
+- System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024-25
 - Probabilistic Model Checking, 2023
 - Computer-Aided Formal Verification, 2023-24
 
@@ -49,4 +49,4 @@ I also served as the lecturer for the <a href="https://vorkurs.cs.uni-saarland.d
 TACAS (2024), QEST-FORMATS (2024)
 
 #### artifact evaluation committee
-CAV (2024)
+CAV (2024, 2025)
