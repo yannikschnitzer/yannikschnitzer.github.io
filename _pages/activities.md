@@ -10,10 +10,8 @@ nav_order: 6
 
 
 ## teaching
-
-<span style="display:block; height:3px;"></span>
-
 I am passionate about teaching. I am involved with the following lectures and classes.
+<span style="display:block; height:3px;"></span>
 
 #### Oxford 
 
