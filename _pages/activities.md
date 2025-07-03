@@ -10,7 +10,9 @@ nav_order: 6
 
 
 ## teaching
-I am passionate about teaching. I am involved with the following lectures and classes.
+I am passionate about teaching. I also won the teaching award in the Department of Computer Science, Oxford in 2025. 
+
+I am involved with the following lectures and classes.
 <span style="display:block; height:3px;"></span>
 
 #### Oxford 
