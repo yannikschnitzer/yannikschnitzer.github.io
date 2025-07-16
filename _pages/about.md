@@ -28,3 +28,4 @@ My research interests lie in formal verification and machine learning, particula
 Prior to my PhD, I completed my master's degree at Oxford and my undergraduate studies at Saarland University, where I was a research assistant with <a href="https://depend.cs.uni-saarland.de/~hermanns/">Holger Hermanns</a>.
 
 Over the summer of 2024, I was an intern in the formal verification team at Apple. 
+
