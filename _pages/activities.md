@@ -10,7 +10,7 @@ nav_order: 6
 
 
 ## teaching
-I am passionate about teaching. I also won the teaching award in the Department of Computer Science, Oxford in 2025. 
+I am passionate about teaching. I received the teaching award of the Department of Computer Science, Oxford in 2025. 
 
 I am involved with the following lectures and classes.
 <span style="display:block; height:3px;"></span>
@@ -25,10 +25,10 @@ I am involved with the following lectures and classes.
 
 ##### undergraduate
 
-- Concurrency, 2024
-- Imperative Programming, 2024-25
+- Concurrency, 2024-25
+- Imperative Programming, 2024-26
 - Databases, 2024-25
-- Functional Programming, 2023
+- Functional Programming, 2023,2025
 
 <span style="display:block; height:3px;"></span>
 
@@ -47,7 +47,7 @@ I also served as the lecturer for the <a href="https://vorkurs.cs.uni-saarland.d
 ## reviewing
 <span style="display:block; height:0px;"></span>
 #### conference reviewing 
-TACAS (2024), QEST-FORMATS (2024)
+TACAS (2024), QEST-FORMATS (2024), AAAI (2026)
 
 #### artifact evaluation committee
 CAV (2024, 2025)
