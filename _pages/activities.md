@@ -25,10 +25,10 @@ I am involved with the following lectures and classes.
 
 ##### undergraduate
 
-- Concurrency, 2024-25
+- Concurrency, 2024-26
 - Imperative Programming, 2024-26
 - Databases, 2024-25
-- Functional Programming, 2023, 2025
+- Functional Programming, 2023-26
 
 <span style="display:block; height:3px;"></span>
 
