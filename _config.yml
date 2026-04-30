@@ -310,6 +310,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  sort_by: year, publication_order
+  order: descending
   group_by: year
   group_order: descending
 
@@ -336,6 +338,7 @@ filtered_bibtex_keywords:
     pdf,
     poster,
     preview,
+    publication_order,
     peer_reviewed,
     preprint,
     selected,
