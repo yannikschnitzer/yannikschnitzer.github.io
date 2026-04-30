@@ -7,35 +7,3 @@
 
 "Vision":
   color: "#009f36"
-
-"AAAI":
-  url: https://aaai.org/conference/aaai/
-  color: "#2f80ed"
-
-"arXiv":
-  url: https://arxiv.org/
-  color: "#b31b1b"
-
-"CAV":
-  url: https://i-cav.org/
-  color: "#009f36"
-
-"CDC":
-  url: https://cdc2025.ieeecss.org/
-  color: "#6f42c1"
-
-"ICML":
-  url: https://icml.cc/
-  color: "#f59f00"
-
-"LNCS":
-  url: https://www.springer.com/series/558
-  color: "#555555"
-
-"STTT":
-  url: https://link.springer.com/journal/10009
-  color: "#0072bc"
-
-"TACAS":
-  url: https://etaps.org/conferences/tacas/
-  color: "#d9480f"

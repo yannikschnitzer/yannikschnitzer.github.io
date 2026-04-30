@@ -11,11 +11,11 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h1>Peer-reviewed papers</h1>
+<h1 class="publication-section-heading">Peer-reviewed papers</h1>
 
 {% bibliography --query @*[peer_reviewed=true]* %}
 
-<h1>Preprints</h1>
+<h1 class="publication-section-heading">Preprints</h1>
 
 {% bibliography --query @*[preprint=true]* %}
 
