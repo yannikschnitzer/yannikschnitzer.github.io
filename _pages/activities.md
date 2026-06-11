@@ -18,8 +18,9 @@ I am involved with the following lectures and classes.
 #### Oxford 
 
 ##### post-graduate 
-- Foundations of Self-Programming Agents, 2025
-- System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024-25
+- Deep Learning in Healthcare, 2026
+- Foundations of Self-Programming Agents, 2025-26
+- System Verification, for the <a href="https://aims.robots.ox.ac.uk/">AIMS</a> CDT, 2024-26
 - Probabilistic Model Checking, 2023
 - Computer-Aided Formal Verification, 2023-24
 
@@ -47,7 +48,7 @@ I also served as the lecturer for the <a href="https://vorkurs.cs.uni-saarland.d
 ## reviewing
 <span style="display:block; height:0px;"></span>
 #### conference reviewing 
-TACAS (2024, 2026), QEST-FORMATS (2024), AAAI (2026), L4DC (2026)
+TACAS (2024, 2026), QEST-FORMATS (2024), AAAI (2026), L4DC (2026), ICML (2026)
 
 #### journal reviewing
 JAIR
